@@ -5,7 +5,7 @@
 
 - 📫 Contact to me **noppadol.p.promtas@gmail.com**
 
-- ⚡ Fun fact ** Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3000 years old and still perfectly edible. This remarkable longevity is due to honey's low moisture content and acidic pH, which create an inhospitable environment for bacteria and microorganisms that cause spoilage. **
+- ⚡ Fun fact **Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3000 years old and still perfectly edible. This remarkable longevity is due to honey's low moisture content and acidic pH, which create an inhospitable environment for bacteria and microorganisms that cause spoilage.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
