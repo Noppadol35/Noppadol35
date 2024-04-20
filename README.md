@@ -5,7 +5,7 @@
 
 - 📫 Contact to me **noppadol.p.promtas@gmail.com**
 
-- ⚡ Fun fact **Archaeologists have found pots of honey in ancient Egyptian tombs that are over 3000 years old and still perfectly edible. This remarkable longevity is due to honey's low moisture content and acidic pH, which create an inhospitable environment for bacteria and microorganisms that cause spoilage.**
+- ⚡ Fun fact **The world's smallest mammal is the bumblebee bat (Craseonycteris thonglongyai), also known as Kitti's hog-nosed bat. These tiny bats weigh only about 2 grams (0.07 ounces) and have a wingspan of around 6 inches (15 centimeters). They are found in limestone caves in Thailand and Burma and are considered one of the most unique and rare bat species in the world due to their incredibly small size.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
