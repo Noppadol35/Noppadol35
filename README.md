@@ -5,7 +5,7 @@
 
 - 📫 Contact to me **noppadol.p.promtas@gmail.com**
 
-- ⚡ Fun fact **The world's smallest mammal is the bumblebee bat (Craseonycteris thonglongyai), also known as Kitti's hog-nosed bat. These tiny bats weigh only about 2 grams (0.07 ounces) and have a wingspan of around 6 inches (15 centimeters). They are found in limestone caves in Thailand and Burma and are considered one of the most unique and rare bat species in the world due to their incredibly small size.**
+- ⚡ Fun fact **The shortest war in history was the Anglo-Zanzibar War, which took place on August 27, 1896. It lasted just 38 minutes. The conflict arose when the Sultan of Zanzibar died and his successor refused to step down as demanded by the British authorities. In response, the British bombarded the Sultan’s palace, quickly defeating the Zanzibari forces. This brief yet impactful conflict holds the record as the shortest war on record.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
