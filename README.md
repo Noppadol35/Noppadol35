@@ -5,7 +5,7 @@
 
 - 📫 Contact to me **noppadol.p.promtas@gmail.com**
 
-- ⚡ Fun fact **The shortest war in history was the Anglo-Zanzibar War, which took place on August 27, 1896. It lasted just 38 minutes. The conflict arose when the Sultan of Zanzibar died and his successor refused to step down as demanded by the British authorities. In response, the British bombarded the Sultan’s palace, quickly defeating the Zanzibari forces. This brief yet impactful conflict holds the record as the shortest war on record.**
+- ⚡ Fun fact **Bananas are berries, but strawberries aren't! In botanical terms, a berry is defined as a fruit produced from the ovary of a single flower with seeds embedded in the flesh. Bananas fit this description perfectly, as they develop from a single flower with a fleshy outer layer containing seeds (which are the small black specks inside the fruit). On the other hand, strawberries, despite their name, are not true berries. They develop from a flower with multiple ovaries, and the seeds are on the outer surface rather than embedded within the flesh.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
