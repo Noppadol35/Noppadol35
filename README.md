@@ -5,7 +5,7 @@
 
 - 📫 Contact to me **noppadol.p.promtas@gmail.com**
 
-- ⚡ Fun fact **Bananas are berries, but strawberries aren't! In botanical terms, a berry is defined as a fruit produced from the ovary of a single flower with seeds embedded in the flesh. Bananas fit this description perfectly, as they develop from a single flower with a fleshy outer layer containing seeds (which are the small black specks inside the fruit). On the other hand, strawberries, despite their name, are not true berries. They develop from a flower with multiple ovaries, and the seeds are on the outer surface rather than embedded within the flesh.**
+- ⚡ Fun fact **Did you know that the first computer programmer in history was a woman named Ada Lovelace? Ada Lovelace, born in 1815, worked with Charles Babbage on his proposed mechanical general-purpose computer, the Analytical Engine. She wrote what is considered to be the first algorithm intended to be carried out by a machine, making her the world's first computer programmer. Today, she is celebrated as a pioneer in computing and is often regarded as the "Mother of Computer Programming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
