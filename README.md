@@ -5,7 +5,7 @@
 
 - 📫 Contact to me **noppadol.p.promtas@gmail.com**
 
-- ⚡ Fun fact **Did you know that the first computer programmer in history was a woman named Ada Lovelace? Ada Lovelace, born in 1815, worked with Charles Babbage on his proposed mechanical general-purpose computer, the Analytical Engine. She wrote what is considered to be the first algorithm intended to be carried out by a machine, making her the world's first computer programmer. Today, she is celebrated as a pioneer in computing and is often regarded as the "Mother of Computer Programming.**
+- ⚡ Fun fact *In the early days of computer programming, software programmers used to literally weave or sew their programs into punch cards using special machines. These punch cards contained patterns of holes that represented the instructions and data for the computer. Programmers would meticulously create these punch cards by hand, and any mistake could require starting over from scratch. This method of programming was labor-intensive and required great precision, highlighting the significant evolution of coding practices from the early days of computing to the modern era of integrated development environments and high-level programming languages.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
