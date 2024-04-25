@@ -5,7 +5,7 @@
 
 - 📫 Contact to me **noppadol.p.promtas@gmail.com**
 
-- ⚡ Fun fact *In the early days of computer programming, software programmers used to literally weave or sew their programs into punch cards using special machines. These punch cards contained patterns of holes that represented the instructions and data for the computer. Programmers would meticulously create these punch cards by hand, and any mistake could require starting over from scratch. This method of programming was labor-intensive and required great precision, highlighting the significant evolution of coding practices from the early days of computing to the modern era of integrated development environments and high-level programming languages.*
+- ⚡ Fun fact **The term "bug" in computer programming originated from an actual insect. In 1947, computer scientist Grace Hopper traced an error in the Mark II computer to a moth trapped in a relay, causing a malfunction. She removed the moth and taped it into the logbook, noting, "First actual case of bug being found." Since then, the term "debugging" has been widely used in computer programming to refer to the process of fixing errors or "bugs" in software. This playful origin story illustrates the colorful history behind common coding terminology.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
