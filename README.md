@@ -5,7 +5,7 @@
 
 - 📫 Contact to me **noppadol.p.promtas@gmail.com**
 
-- ⚡ Fun fact **The term "bug" in computer programming originated from an actual insect. In 1947, computer scientist Grace Hopper traced an error in the Mark II computer to a moth trapped in a relay, causing a malfunction. She removed the moth and taped it into the logbook, noting, "First actual case of bug being found." Since then, the term "debugging" has been widely used in computer programming to refer to the process of fixing errors or "bugs" in software. This playful origin story illustrates the colorful history behind common coding terminology.**
+- ⚡ Fun fact **The world's first computer programmer was Ada Lovelace, an English mathematician who lived in the 19th century. She worked on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. Lovelace wrote the first algorithm intended to be processed by a machine, making her the world's first computer programmer. Her contributions to computing are celebrated annually on Ada Lovelace Day, which aims to raise the profile of women in science, technology, engineering, and mathematics (STEM).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
