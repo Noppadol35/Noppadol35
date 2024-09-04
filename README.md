@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🙌🏻, I'm Purmpoon</h1>
-<h3 align="center">I'm Bachelor's degree student in king mongkut's university of technology north bangkok</h3>
+<h3 align="center">I'm Bachelor's degree student at king mongkut's university of technology north bangkok</h3>
 
 - 🔭 I’m currently working on [Next Js, Devlopment](https://github.com/Noppadol35/myproject)
 
