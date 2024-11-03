@@ -5,7 +5,7 @@
 
 - 📫 Contact to me **noppadol.p.promtas@gmail.com**
 
-- ⚡ Fun fact **The world's first computer programmer was Ada Lovelace, an English mathematician who lived in the 19th century. She worked on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine. Lovelace wrote the first algorithm intended to be processed by a machine, making her the world's first computer programmer. Her contributions to computing are celebrated annually on Ada Lovelace Day, which aims to raise the profile of women in science, technology, engineering, and mathematics (STEM).**
+- ⚡ Fun fact  .3. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
