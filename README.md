@@ -5,7 +5,7 @@
 
 - 📫 Contact to me **noppadol.p.promtas@gmail.com**
 
-- ⚡ Fun fact  .3. 
+- ⚡ Fun fact  -///-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
