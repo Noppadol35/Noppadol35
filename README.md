@@ -1,5 +1,5 @@
 <h1 align="center">Hello 🙌🏻, I'm Purmpoon</h1>
-<h3 align="center">I'm Bachelor's degree student at king mongkut's university of technology north bangkok</h3>
+<h3 align="center">I'm 4th Bachelor's Degree Student At King Mongkut's University Of Technology North Bangkok</h3>
 
 - 🔭 I’m currently 4th-Year Computer Science Student
 
