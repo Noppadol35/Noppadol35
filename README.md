@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🙌🏻, I'm Purmpoon</h1>
 <h3 align="center">I'm Bachelor's degree student at king mongkut's university of technology north bangkok</h3>
 
-- 🔭 I’m currently working on Network Engineer Trainer at TCC-Technology
+- 🔭 I’m currently 4th-Year Computer Science Student
 
 - 📫 Contact to me **noppadol.p.promtas@gmail.com**
 
