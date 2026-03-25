@@ -35,7 +35,7 @@
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Noppadol35&theme=dark&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noppadol35&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Noppadol35&show_icons=true&theme=radical" alt="stat" />
 </div>
 
 ---
