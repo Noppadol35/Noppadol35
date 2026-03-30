@@ -18,7 +18,7 @@
   <!-- Viewer Count -->
   <img src="https://komarev.com/ghpvc/?username=Noppadol35&style=flat-square&color=blue" alt="Profile Views"/>  
 
-  <h1> Hello 🙌🏻, I'm <span style="color:#00BFFF">Purmpoon</span> </h1>
+  <h1> Hello 🙌🏻, I'm <span style="color:#00BFFF">Noppadol.P (Purmpoon)</span> </h1>
 </div>
 
 ---
